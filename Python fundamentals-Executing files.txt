@@ -1,0 +1,91 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\baudrite>cd desktop
+
+C:\Users\baudrite\Desktop>cd codingdojo
+The system cannot find the path specified.
+
+C:\Users\baudrite\Desktop>cd CodingDojoAssignments
+The system cannot find the path specified.
+
+C:\Users\baudrite\Desktop>cd DojoAssignments
+
+C:\Users\baudrite\Desktop\DojoAssignments>dir
+ Volume in drive C is OSDisk
+ Volume Serial Number is 3002-2A4C
+
+ Directory of C:\Users\baudrite\Desktop\DojoAssignments
+
+03/19/2018  12:20 PM    <DIR>          .
+03/19/2018  12:20 PM    <DIR>          ..
+03/07/2018  01:52 PM    <DIR>          iOS
+03/07/2018  01:52 PM    <DIR>          MEAN
+03/07/2018  01:52 PM    <DIR>          netCore
+03/19/2018  12:20 PM    <DIR>          New folder
+03/19/2018  12:01 PM    <DIR>          Python
+03/07/2018  01:51 PM    <DIR>          Ruby
+03/07/2018  01:55 PM    <DIR>          WebFundamentals
+               0 File(s)              0 bytes
+               9 Dir(s)  214,642,425,856 bytes free
+
+C:\Users\baudrite\Desktop\DojoAssignments>cd Pythin
+The system cannot find the path specified.
+
+C:\Users\baudrite\Desktop\DojoAssignments>cd Python
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python>dir
+ Volume in drive C is OSDisk
+ Volume Serial Number is 3002-2A4C
+
+ Directory of C:\Users\baudrite\Desktop\DojoAssignments\Python
+
+03/19/2018  12:01 PM    <DIR>          .
+03/19/2018  12:01 PM    <DIR>          ..
+03/07/2018  01:50 PM                 0 about.txt
+03/19/2018  12:01 PM    <DIR>          Django
+03/19/2018  12:01 PM    <DIR>          Django_Extras
+03/19/2018  12:00 PM    <DIR>          Flask_AJAX
+03/19/2018  12:00 PM    <DIR>          Flask_MySQL
+03/19/2018  01:27 PM    <DIR>          Fundamentals
+03/19/2018  12:00 PM    <DIR>          MySQL
+03/19/2018  11:59 AM    <DIR>          OOP
+03/19/2018  11:59 AM    <DIR>          Python_Extras
+03/19/2018  11:58 AM    <DIR>          VirtualEnvironments
+               1 File(s)              0 bytes
+              11 Dir(s)  214,641,377,280 bytes free
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python>cd Fundamentals
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>dir
+ Volume in drive C is OSDisk
+ Volume Serial Number is 3002-2A4C
+
+ Directory of C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals
+
+03/19/2018  01:27 PM    <DIR>          .
+03/19/2018  01:27 PM    <DIR>          ..
+03/19/2018  01:27 PM                 0 hello_world.py
+03/19/2018  12:19 PM           625,033 Try_pip.txt
+               2 File(s)        625,033 bytes
+               2 Dir(s)  214,641,057,792 bytes free
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>cd hello_world.py
+The directory name is invalid.
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>cd hello_world.py
+The directory name is invalid.
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>hello_world.py
+Hello World!
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>hello_world.py
+Hello World!
+Hello Python
+42
+
+C:\Users\baudrite\Desktop\DojoAssignments\Python\Fundamentals>
